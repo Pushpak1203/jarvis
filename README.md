@@ -23,4 +23,4 @@ Execution Part
 
 #### Problems which I faced while making this project ####
 
-<div style={{background-image:"url("https://github.com/user-attachments/assets/a60f4b84-ce99-4825-81a4-a118617b0de8")"}}></div>
+<div style="background-image: url('https://github.com/user-attachments/assets/a60f4b84-ce99-4825-81a4-a118617b0de8');"></div>
