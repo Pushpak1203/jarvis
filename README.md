@@ -37,4 +37,9 @@ Problems which I faced while making this project:
 
 
                                                https://github.com/user-attachments/assets/a60f4b84-ce99-4825-81a4-a118617b0de8
+                                               During Execution the program got stuckes and after sometime my Laptop wos showing a pop dialog box where it has been mentioned that the python is 
+                                               not respondidng
+
+My Laptop configration:
+                                              Lenovo LOQ intel i512450H; 16GB RAM; 512GB SSD; Nvidia RTX 3050 6GB 95-Watt TDP
 
