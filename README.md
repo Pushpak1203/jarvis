@@ -40,6 +40,15 @@ Problems which I faced while making this project:
                                                During Execution the program got stuckes and after sometime my Laptop wos showing a pop dialog box where it has been mentioned that the python is 
                                                not respondidng
 
+
+
+
+
+
+
+
+Remember to update the HUggingface APIKEY, otherwise you will not get the output
+
 My Laptop configration:
                                               Lenovo LOQ intel i512450H; 16GB RAM; 512GB SSD; Nvidia RTX 3050 6GB 95-Watt TDP
 
