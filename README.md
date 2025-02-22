@@ -52,3 +52,14 @@ Remember to update the HUggingface APIKEY, otherwise you will not get the output
 My Laptop configration:
                                               Lenovo LOQ intel i512450H; 16GB RAM; 512GB SSD; Nvidia RTX 3050 6GB 95-Watt TDP
 
+
+
+
+
+
+
+
+
+
+
+<!-- Uploading "JARVIS error.mp4"... -->
