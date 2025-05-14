@@ -58,6 +58,7 @@ My Laptop configration:
 
 
 
+Do not forget create your own secrete key file i.e. (.env file) to store your API keys.
 
 
 
